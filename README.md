@@ -9,7 +9,7 @@
   <meta property="og:title" content="Jason P. Terry — Computational Astrophysics & Planet Formation">
   <meta property="og:description" content="Research at the intersection of disk dynamics, early Solar System history, astronomical observations, and machine learning.">
   <title>Jason P. Terry | Planet Formation & Computational Astrophysics</title>
-  <link rel="icon" type="image/jpeg" href="profile_picture.jpg">
+  <link rel="icon" type="image/jpeg" href="disk.jpg">
   <style>
     :root {
       --bg:#f7f6f2; --paper:#fffdfa; --ink:#1d2b31; --sub:#4c5c60; --muted:#687779;
