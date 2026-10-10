@@ -61,7 +61,6 @@
     .research-card h3{font-size:1.53rem;margin:24px 0 13px;letter-spacing:-.035em}
     .research-card p{font-size:.94rem;line-height:1.78;color:var(--sub);margin:0}
     .research-tag{color:var(--accent);font-size:.74rem;font-weight:700;letter-spacing:.035em;margin-top:25px}
-    /* Featured figure: one simulation, from physical model to observable diagnostic. */
     .featured-research{margin-top:54px;padding-top:36px;border-top:1px solid var(--line)}
     .featured-research-header{display:flex;align-items:end;justify-content:space-between;gap:30px;margin-bottom:22px}
     .featured-research-header .eyebrow{margin-bottom:10px}
@@ -166,7 +165,7 @@
       <div class="research-grid">
         <article class="research-card"><span class="num">01</span><h3>Disk dynamics & planet formation</h3><p>Using three-dimensional simulations to investigate gravitational instability, magnetohydrodynamics, dust–gas interactions, and the structures carved by forming planets.</p><div class="research-tag">Simulations · Disk kinematics</div></article>
         <article class="research-card"><span class="num">02</span><h3>The early Solar System</h3><p>Linking disk evolution to evidence preserved in meteorites, including the transport of solids, magnetic environments, and the role of volatile ices in planetary building blocks.</p><div class="research-tag">Meteorites · Volatiles · Transport</div></article>
-        <article class="research-card"><span class="num">03</span><h3>Machine learning for astronomy</h3><p>Developing methods to detect planet signatures, identify anomalous motion, reconstruct interferometric observations, and extract physical parameters from complex data.</p><div class="research-tag">ALMA · VIREO · Inference</div></article>
+        <article class="research-card"><span class="num">03</span><h3>Machine learning for astronomy</h3><p>Developing methods to detect planet signatures, identify anomalous motion, reconstruct interferometric observations, and extract physical parameters from complex data.</p><div class="research-tag">ALMA · Planets · Anomalies</div></article>
       </div>
       <div class="featured-research" aria-labelledby="featured-research-title">
         <div class="featured-research-header">
