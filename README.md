@@ -8,7 +8,7 @@
   <meta property="og:type" content="profile">
   <meta property="og:title" content="Jason P. Terry — Computational Astrophysics & Planet Formation">
   <meta property="og:description" content="Research at the intersection of disk dynamics, early Solar System history, astronomical observations, and machine learning.">
-  <title>Planet Formation & Computational Astrophysics</title>
+  <title>Jason P. Terry | Planet Formation & Computational Astrophysics</title>
   <link rel="icon" type="image/jpeg" href="profile_picture.jpg">
   <style>
     :root {
@@ -124,7 +124,7 @@
   <a class="skip" href="#main">Skip to content</a>
   <header>
     <nav class="wrap" aria-label="Main navigation">
-      <a class="name" href="#top">Jason P. Terry<span style="color:var(--copper)">.</span></a>
+      <!-- <a class="name" href="#top">Jason P. Terry<span style="color:var(--copper)">.</span></a> -->
       <div class="navlinks">
         <a href="#research">Research</a>
         <a href="#publications">Publications</a>
