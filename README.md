@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f7f6f2">
   <meta name="description" content="Jason P. Terry is a computational astrophysicist at the University of Oxford studying planet formation, protoplanetary disk dynamics, the early Solar System, and machine learning for astronomical observations.">
-  <meta name="author" content="Jason P. Terry">
+  <!-- <meta name="author" content="Jason P. Terry"> -->
   <meta property="og:type" content="profile">
   <meta property="og:title" content="Jason P. Terry — Computational Astrophysics & Planet Formation">
   <meta property="og:description" content="Research at the intersection of disk dynamics, early Solar System history, astronomical observations, and machine learning.">
