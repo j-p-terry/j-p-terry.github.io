@@ -152,7 +152,7 @@
     </div>
     <div class="about-bar">
       <div class="wrap about-inner">
-        <div class="stat"><strong>Physical models</strong>Hydrodynamics, self-gravity, magnetic fields, gas–dust evolution</div>
+        <div class="stat"><strong>Physical models</strong>Hydrodynamics, self-gravity, instabilities, magnetic fields, gas–dust evolution</div>
         <div class="stat"><strong>Observational constraints</strong>ALMA, interferometry, disk kinematics, meteoritic records</div>
         <div class="stat"><strong>Data-driven methods</strong>Machine learning, inverse problems, scientific inference</div>
       </div>
