@@ -53,7 +53,7 @@
     .about-inner{padding:29px 0;display:grid;grid-template-columns:1fr 1fr 1fr;gap:32px}
     .stat{font-size:.88rem;color:#526269;line-height:1.55}.stat strong{display:block;color:var(--ink);font-family:var(--serif);font-size:1.24rem;font-weight:normal;margin-bottom:4px}
     section{padding:84px 0;border-bottom:1px solid var(--line)}
-    .section-head{display:grid;grid-template-columns:250px minmax(0,1fr);gap:34px;align-items:start;margin-bottom:34px}
+    .section-head{display:grid;grid-template-columns:340px minmax(0,1fr);gap:34px;align-items:start;margin-bottom:34px}
     .section-head h2{font-size:clamp(2.35rem,3.6vw,3.25rem);margin:0}
     .section-head .lead{max-width:710px;color:var(--sub);font-size:1.05rem;margin:5px 0 0;line-height:1.83}
     .research-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
