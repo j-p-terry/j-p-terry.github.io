@@ -124,7 +124,8 @@
   <a class="skip" href="#main">Skip to content</a>
   <header>
     <nav class="wrap" aria-label="Main navigation">
-      <a class="name" href="#top"> <span style="color:var(--copper)">.</span></a>
+      <!-- <a class="name" href="#top">Jason P. Terry<span style="color:var(--copper)">.</span></a> -->
+      <a class="name" href="#top"></a>
       <div class="navlinks">
         <a href="#research">Research</a>
         <a href="#publications">Publications</a>
